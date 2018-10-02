@@ -1,0 +1,40 @@
+.menu
+ {
+   text-align: right;
+ }
+
+.container {
+  float : center;
+}
+
+.footer1  { 
+
+text-align: left;
+
+}
+
+.footer2 {
+
+text-align: right;
+}
+
+.general {
+    width: 100%;
+    position: absolute;
+    left:0px;
+    bottom:0px;
+    background-color: #f2f2f2;
+    margin-left: 0px;
+    color: rgba(0, 0, 0, 5);
+    text-align: left;
+  }
+
+
+
+.france {
+    margin-left: 40px;
+    display: block;
+    border-top: 1px solid #e4e4e4;
+    font-size: 15px;
+    padding-top: 10px;
+    bottom: 0;
