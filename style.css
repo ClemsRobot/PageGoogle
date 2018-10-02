@@ -16,6 +16,33 @@ text-align: left;
 .footer2 {
 
 text-align: right;
+
+}
+
+.Petiticone {
+
+width: 0.95%;
+
+}
+
+.recherche  {
+opacity: 0.60;
+width: 8%;
+font-weight: bold;
+
+}
+
+
+button.connexion {
+background-color: #4783ef;
+color: white;
+width :75px;
+
+}
+
+.barre {
+width: 25%;
+height: 28px;
 }
 
 .general {
@@ -27,6 +54,7 @@ text-align: right;
     margin-left: 0px;
     color: rgba(0, 0, 0, 5);
     text-align: left;
+
   }
 
 
